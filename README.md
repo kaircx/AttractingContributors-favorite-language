@@ -24,6 +24,7 @@ To complete the assignment, please do the following:
 - Camaro (Chevrolet)
 - GR YARIS (TOYOTA)
 - Midget (Daihatsu)
+- N-box(Honda)
 - Ford Mustang (Ford)
 - N-BOX (Honda)
 - Vitz (TOYOTA) my car!!
